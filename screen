@@ -1,11 +1,11 @@
 {
   "name": "TV",
-  "author": "",
+  "author": "TV",
   "url": "https://raw.githubusercontent.com/jeepeers/player/main/screen",
   "epg": "",
   "image": "https://dl.memuplay.com/new_market/img/com.phiamurphin.tdt.espana.icon.2019-06-15-11-13-35.png",
   "telegram": "",
-  "info": "",
+  "info": "Playlist",
   "groups": [
     {
       "name": "Nacionales",
