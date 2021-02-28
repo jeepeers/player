@@ -552,7 +552,6 @@
           "url": "http://hxmax1.maxvideorep.com/live/la_liga_tv/index.m3u8",
           "url1": "http://hxmax1.maxvideorep.com/live/la_liga_tv/index.m3u8",
           "url2": "http://hxmax2.maxvideorep.com/live/la_liga_tv/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "LaLigaTV.TV"
         },
         {
@@ -562,8 +561,6 @@
           "url1": "http://hxmax1.maxvideorep.com/live/movistar_laliga_HD/index.m3u8",
           "url2": "http://hxmax1.maxvideorep.com/live/movistar_laliga_HD_directo/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/movistar_laliga_HD/index.m3u8",
-          "url4": "https://dailysportbucket80.s3.eu-west-3.amazonaws.com/1/1.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LaLiga.TV"
         },
         {
@@ -574,21 +571,18 @@
           "url2": "http://hxmax1.maxvideorep.com/live/movistar_laliga_1_HD/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/movistar_laliga_1_HD/index.m3u8",
           "url4": "https://storage.googleapis.com/dailycl14/10/10.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LaLiga1.TV"
         },
         {
           "name": "M.LaLiga 2",
           "image": "img/canales/mliga.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_laliga_2/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LaLiga2.TV"
         },
         {
           "name": "M.LaLiga 3",
           "image": "img/canales/mliga.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_laliga_3/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LaLiga3.TV"
         },
         {
@@ -606,8 +600,6 @@
           "url1": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_HD/index.m3u8",
           "url2": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_HD/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/movistar_liga_de_campeones_HD/index.m3u8",
-          "url4": "https://dailysportbucket94.s3.eu-west-3.amazonaws.com/1/1.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones.TV"
         },
         {
@@ -617,54 +609,42 @@
           "url1": "http://hxmax2.maxvideorep.com/live/movistar_liga_de_campeones_1_HD/index.m3u8",
           "url2": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_1/index.m3u8",
           "url3": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_1/index.m3u8",
-          "url4": "https://cdn.dailysport.pw/2/2.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones1.TV"
         },
         {
           "name": "M. Liga de Campeones 2",
           "image": "img/canales/mligacampeones.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_2/index.m3u8",
-          "url1": "https://cdn.dailysport.pw/3/3.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones2.TV"
         },
         {
           "name": "M. Liga de Campeones 3",
           "image": "img/canales/mligacampeones.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_3/index.m3u8",
-          "url1": "https://cdn.dailysport.pw/2/2.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones3.TV"
         },
         {
           "name": "M. Liga de Campeones 4",
           "image": "img/canales/mligacampeones.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_4/index.m3u8",
-          "url1": "https://cdn.dailysport.pw/2/2.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones4.TV"
         },
         {
           "name": "M. Liga de Campeones 5",
           "image": "img/canales/mligacampeones.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_5/index.m3u8",
-          "url1": "https://cdn.dailysport.pw/21/21.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones5.TV"
         },
         {
           "name": "M. Liga de Campeones 6",
           "image": "img/canales/mligacampeones.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_6/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones6.TV"
         },
         {
           "name": "M. Liga de Campeones 7",
           "image": "img/canales/mligacampeones.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_liga_de_campeones_7/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "M.LigadeCampeones7.TV"
         }
       ]
@@ -778,7 +758,6 @@
           "url2": "http://hxmax1.maxvideorep.com/live/movistar_formula_1_HD/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/movistar_formula_1_HD/index.m3u8",
           "url4": "https://cdndailys.azureedge.net/LiveApp/streams/062648843338317181280381.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "MovistarFórmula1.TV"
         },
         {
@@ -801,7 +780,6 @@
           "image": "img/canales/mdeportes1.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_deportes/index.m3u8",
           "url1": "http://hxmax1.maxvideorep.com/live/movistar_deportes/index.m3u8",
-          "url2": "https://cdn.dailysport.pw/16/16.m3u8",
           "epgId": "MovistarDeportes1.TV"
         },
         {
@@ -809,7 +787,6 @@
           "image": "img/canales/vamos.png",
           "url": "http://hxmax1.maxvideorep.com/live/vamos/index.m3u8",
           "url1": "http://hxmax2.maxvideorep.com/live/vamos/index.m3u8",
-          "url2": "https://dailysportbucket7.s3.eu-west-2.amazonaws.com/15/15.m3u8",
           "epgId": "Vamos.TV"
         },
         {
@@ -1004,7 +981,6 @@
           "url1": "http://hxmax1.maxvideorep.com/live/movistar_dazn_1_HD/index.m3u8",
           "url2": "http://hxmax1.maxvideorep.com/live/movistar_dazn_1_HD/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/movistar_dazn_1_HD/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "MDAZN1.TV"
         },
         {
@@ -1014,7 +990,6 @@
           "url1": "http://hxmax1.maxvideorep.com/live/movistar_dazn_2_HD/index.m3u8",
           "url2": "http://hxmax1.maxvideorep.com/live/movistar_dazn_2_HD/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/movistar_dazn_2_HD/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "MDAZN2.TV"
         },
         {
@@ -1024,7 +999,6 @@
           "url1": "http://hxmax1.maxvideorep.com/live/dazn_1_HD/index.m3u8",
           "url2": "http://hxmax1.maxvideorep.com/live/dazn_1_HD/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/dazn_1_HD/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN1.TV"
         },
         {
@@ -1034,7 +1008,6 @@
           "url1": "http://hxmax1.maxvideorep.com/live/dazn_2_HD/index.m3u8",
           "url2": "http://hxmax1.maxvideorep.com/live/dazn_2_HD/index.m3u8",
           "url3": "http://hxmax2.maxvideorep.com/live/dazn_2_HD/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN2.TV"
         },
         {
@@ -1042,70 +1015,60 @@
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_3/index.m3u8",
           "url1": "http://hxmax1.maxvideorep.com/live/dazn_3/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN3.TV"
         },
         {
           "name": "DAZN 4",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_4/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN4.TV"
         },
         {
           "name": "DAZN 5",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_5/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN5.TV"
         },
         {
           "name": "DAZN 6",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_6/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN6.TV"
         },
         {
           "name": "DAZN 7",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_7/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN7.TV"
         },
         {
           "name": "DAZN 8",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_8/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN8.TV"
         },
         {
           "name": "DAZN 9",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_9/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN9.TV"
         },
         {
           "name": "DAZN 10",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_10/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN10.TV"
         },
         {
           "name": "DAZN 11",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_11/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN11.TV"
         },
         {
           "name": "DAZN 12",
           "image": "img/canales/dazn.png",
           "url": "http://hxmax1.maxvideorep.com/live/dazn_12/index.m3u8",
-          "urlweb": "https://dailysport.fun/",
           "epgId": "DAZN12.TV"
         }
       ]
