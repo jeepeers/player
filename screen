@@ -578,6 +578,7 @@
           "name": "M.LaLiga 2",
           "image": "img/canales/mliga.png",
           "url": "http://hxmax1.maxvideorep.com/live/movistar_laliga_2/index.m3u8",
+          "url1": "http://newplay.ddns.net:25461/live/newplay/jWEqVPfmEP/1.ts",
           "epgId": "M.LaLiga2.TV"
         },
         {
