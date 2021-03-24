@@ -17,8 +17,8 @@
           "image": "img/canales/la1.png",
           "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
           "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
-          "url2": "https://freevip.xyz:443/Live/minilista/fHCwW4Vh2m/1.m3u8",
-          "url4": "https://freevip.xyz:443/links/testeo.m3u8",
+          "url2": "https://freevip.xyz:443/live/minilista/fHCwW4Vh2m/1.m3u8",
+          "url3": "https://freevip.xyz:443/links/testeo.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-1/",
           "epgId": "LA1.TV"
         },
@@ -27,7 +27,7 @@
           "image": "img/canales/la2.png",
           "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8",
           "url1": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8",
-          "url2": "https://maxvideorep.com/live/la_2/index.m3u8",
+          "url2": "https://freevip.xyz:443/live/minilista/fHCwW4Vh2m/1.m3u8",
           "url3": "https://maxvideorep.com/live/la_2/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-2/",
           "epgId": "LA2.TV"
