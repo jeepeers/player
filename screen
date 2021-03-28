@@ -17,8 +17,7 @@
           "image": "img/canales/la1.png",
           "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
           "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
-          "url2": "https://freevip.xyz:443/HLS/live/liga/index.m3u8",
-          "url3": "https://maxvideorep.com/HLS/live/liga/index.m3u8",
+          "url2": "https://maxvideorep.com/live/la_1/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-1/",
           "epgId": "LA1.TV"
         },
@@ -27,8 +26,7 @@
           "image": "img/canales/la2.png",
           "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8",
           "url1": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8",
-          "url2": "https://freevip.xyz:443/live/minilista/fHCwW4Vh2m/1.m3u8",
-          "url3": "https://maxvideorep.com/live/la_2/index.m3u8",
+          "url2": "https://maxvideorep.com/live/la_2/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-2/",
           "epgId": "LA2.TV"
         },
@@ -38,7 +36,6 @@
           "url": "http://maxvideorep.com/live/antena_3/index.m3u8",
           "url1": "https://directo.atresmedia.com/1608011979_512feb2ea89b01ae66d39bf79efd383f84db8eec/antena3/master.m3u8",
           "url2": "http://maxvideorep.com/live/antena_3/index.m3u8",
-          "url3": "http://maxvideorep.com/live/antena_3/index.m3u8",
           "urlweb": "https://www.atresplayer.com/directos/antena3/",
           "epgId": "Antena3.TV"
         },
@@ -47,7 +44,6 @@
           "image": "img/canales/cuatro.png",
           "url": "http://maxvideorep.com/live/cuatro/index.m3u8",
           "url1": "http://maxvideorep.com/live/cuatro/index.m3u8",
-          "url2": "http://maxvideorep.com/live/cuatro/index.m3u8",
           "urlweb": "https://www.mitele.es/directo/cuatro",
           "epgId": "Cuatro.TV"
         },
@@ -56,7 +52,6 @@
           "image": "img/canales/telecinco.png",
           "url": "http://maxvideorep.com/live/telecinco/index.m3u8",
           "url1": "http://maxvideorep.com/live/telecinco/index.m3u8",
-          "url2": "http://maxvideorep.com/live/telecinco/index.m3u8",
           "urlweb": "https://www.telecinco.es/endirecto/",
           "epgId": "Telecinco.TV"
         },
@@ -65,7 +60,6 @@
           "image": "img/canales/seis.png",
           "url": "http://maxvideorep.com/live/la_sexta/index.m3u8",
           "url1": "http://maxvideorep.com/live/la_sexta/index.m3u8",
-          "url2": "http://maxvideorep.com/live/la_sexta/index.m3u8",
           "urlweb": "https://www.atresplayer.com/directos/lasexta/",
           "epgId": "LaSexta.TV"
         },
@@ -129,7 +123,6 @@
           "image": "img/canales/paramountchannel.png",
           "url": "http://maxvideorep.com/live/paramount_channel/index.m3u8",
           "url1": "http://maxvideorep.com/live/paramount_channel/index.m3u8",
-          "url2": "http://maxvideorep.com/live/paramount_channel/index.m3u8",
           "urlweb": "http://www.paramountchannel.es/programacion/en-directo",
           "epgId": "ParamountChannel.TV"
         },
@@ -295,7 +288,6 @@
           "image": "img/canales/mseries.png",
           "url": "http://maxvideorep.com/live/movistar_series/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_series/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_series/index.m3u8",
           "epgId": "MovistarSeries.TV"
         },
         {
@@ -303,7 +295,6 @@
           "image": "img/canales/mseriesmania.png",
           "url": "http://maxvideorep.com/live/movistar_seriesmania/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_seriesmania/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_seriesmania/index.m3u8",
           "epgId": "M.Seriesmanía.TV"
         },
         {
@@ -311,7 +302,6 @@
           "image": "img/canales/comedy.png",
           "url": "http://maxvideorep.com/live/comedy_central/index.m3u8",
           "url1": "http://maxvideorep.com/live/comedy_central/index.m3u8",
-          "url2": "http://maxvideorep.com/live/comedy_central/index.m3u8",
           "epgId": "ComedyCentral.TV"
         },
         {
@@ -319,7 +309,6 @@
           "image": "img/canales/m0.png",
           "url": "http://maxvideorep.com/live/0/index.m3u8",
           "url1": "http://maxvideorep.com/live/0/index.m3u8",
-          "url2": "http://maxvideorep.com/live/0/index.m3u8",
           "epgId": "#0.TV"
         },
         {
@@ -334,7 +323,6 @@
           "image": "img/canales/fox.png",
           "url": "http://maxvideorep.com/live/fox/index.m3u8",
           "url1": "http://maxvideorep.com/live/fox/index.m3u8",
-          "url2": "http://maxvideorep.com/live/fox/index.m3u8",
           "epgId": "Fox.TV"
         },
         {
@@ -349,7 +337,6 @@
           "image": "img/canales/syfy.png",
           "url": "http://maxvideorep.com/live/syfy/index.m3u8",
           "url1": "http://maxvideorep.com/live/syfy/index.m3u8",
-          "url2": "http://maxvideorep.com/live/syfy/index.m3u8",
           "epgId": "SYFY.TV"
         }
       ]
@@ -363,7 +350,6 @@
           "image": "img/canales/axn.png",
           "url": "http://maxvideorep.com/live/axn/index.m3u8",
           "url1": "http://maxvideorep.com/live/axn/index.m3u8",
-          "url2": "http://maxvideorep.com/live/axn/index.m3u8",
           "epgId": "AXN.TV"
         },
         {
@@ -371,7 +357,6 @@
           "image": "img/canales/axnwhite.png",
           "url": "http://maxvideorep.com/live/axn_white/index.m3u8",
           "url1": "http://maxvideorep.com/live/axn_white/index.m3u8",
-          "url2": "http://maxvideorep.com/live/axn_white/index.m3u8",
           "epgId": "AXNWhite.TV"
         },
         {
@@ -379,7 +364,6 @@
           "image": "img/canales/holly.png",
           "url": "http://maxvideorep.com/live/hollywood/index.m3u8",
           "url1": "http://maxvideorep.com/live/hollywood/index.m3u8",
-          "url2": "http://maxvideorep.com/live/hollywood/index.m3u8",
           "epgId": "Hollywood.TV"
         },
         {
@@ -394,7 +378,6 @@
           "image": "img/canales/amc.png",
           "url": "http://maxvideorep.com/live/amc/index.m3u8",
           "url1": "http://maxvideorep.com/live/amc/index.m3u8",
-          "url2": "http://maxvideorep.com/live/amc/index.m3u8",
           "epgId": "AMC.TV"
         },
         {
@@ -402,7 +385,6 @@
           "image": "img/canales/tcm.png",
           "url": "http://maxvideorep.com/live/tcm/index.m3u8",
           "url1": "http://maxvideorep.com/live/tcm/index.m3u8",
-          "url2": "http://maxvideorep.com/live/tcm/index.m3u8",
           "epgId": "TCM.TV"
         },
         {
@@ -410,7 +392,6 @@
           "image": "img/canales/calle13.png",
           "url": "http://maxvideorep.com/live/calle_13/index.m3u8",
           "url1": "http://maxvideorep.com/live/calle_13/index.m3u8",
-          "url2": "http://maxvideorep.com/live/calle_13/index.m3u8",
           "epgId": "Calle13.TV"
         },
         {
@@ -425,7 +406,6 @@
           "image": "img/canales/drama.png",
           "url": "http://maxvideorep.com/live/movistar_drama/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_drama/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_drama/index.m3u8",
           "epgId": "M.Drama.TV"
         },
         {
@@ -433,7 +413,6 @@
           "image": "img/canales/mestrenos.png",
           "url": "http://maxvideorep.com/live/movistar_estrenos/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_estrenos/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_estrenos/index.m3u8",
           "epgId": "MovistarEstrenos.TV"
         },
         {
@@ -441,7 +420,6 @@
           "image": "img/canales/mdocroll.png",
           "url": "http://maxvideorep.com/live/movistar_cinedocroll/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_cinedocroll/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_cinedocroll/index.m3u8",
           "epgId": "M.CineDoc&Roll.TV"
         },
         {
@@ -449,7 +427,6 @@
           "image": "img/canales/mcomedia.png",
           "url": "http://maxvideorep.com/live/movistar_comedia/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_comedia/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_comedia/index.m3u8",
           "epgId": "MovistarComedia.TV"
         },
         {
@@ -457,7 +434,6 @@
           "image": "img/canales/maccion.png",
           "url": "http://maxvideorep.com/live/movistar_accion/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_accion/index.m3u8",
-          "url2": "http://50.7.172.138/live/movistar_accion/index.m3u8",
           "epgId": "MovistarAcción.TV"
         },
         {
@@ -465,7 +441,6 @@
           "image": "img/canales/maccion.png",
           "url": "http://maxvideorep.com/live/movistar_cine_espanol/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_cine_espanol/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_cine_espanol/index.m3u8",
           "epgId": "MovistarCineN.TV"
         },
         {
@@ -473,7 +448,6 @@
           "image": "img/canales/xtrm.png",
           "url": "http://maxvideorep.com/live/xtrm/index.m3u8",
           "url1": "http://maxvideorep.com/live/xtrm/index.m3u8",
-          "url2": "http://maxvideorep.com/live/xtrm/index.m3u8",
           "epgId": "Xtrm.TV"
         },
         {
@@ -481,7 +455,6 @@
           "image": "img/canales/tnt.png",
           "url": "http://maxvideorep.com/live/tnt/index.m3u8",
           "url1": "http://maxvideorep.com/live/tnt/index.m3u8",
-          "url2": "http://maxvideorep.com/live/tnt/index.m3u8",
           "epgId": "TNT.TV"
         },
         {
@@ -489,7 +462,6 @@
           "image": "img/canales/cosmo.png",
           "url": "http://maxvideorep.com/live/cosmo/index.m3u8",
           "url1": "http://maxvideorep.com/live/cosmo/index.m3u8",
-          "url2": "http://maxvideorep.com/live/cosmo/index.m3u8",
           "epgId": "COSMO.TV"
         }
       ]
@@ -510,34 +482,27 @@
           "image": "img/canales/liga123.png",
           "url": "http://maxvideorep.com/live/la_liga_tv/index.m3u8",
           "url1": "http://maxvideorep.com/live/la_liga_tv/index.m3u8",
-          "url2": "http://maxvideorep.com/live/la_liga_tv/index.m3u8",
           "epgId": "LaLigaTV.TV"
         },
         {
           "name": "M. LaLiga",
           "image": "img/canales/mliga.png",
-          "url": "http://maxvideorep.com/live/movistar_laliga/index.m3u8",
+          "url": "http://maxvideorep.com/live/movistar_laliga_HD/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_laliga_HD/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_laliga_HD_directo/index.m3u8",
-          "url3": "http://maxvideorep.com/live/movistar_laliga_HD/index.m3u8",
-          "url4": "http://newplay.ddns.net:25461/live/newplay/jWEqVPfmEP/1.m3u8",
           "epgId": "M.LaLiga.TV"
         },
         {
           "name": "M. LaLiga 1",
           "image": "img/canales/mliga.png",
-          "url": "http://maxvideorep.com/live/movistar_laliga_1/index.m3u8",
+          "url": "http://maxvideorep.com/live/movistar_laliga_1_HD/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_laliga_1_HD/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_laliga_1_HD/index.m3u8",
-          "url3": "http://maxvideorep.com/live/movistar_laliga_1_HD/index.m3u8",
-          "url4": "http://newplay.ddns.net:25461/live/newplay/jWEqVPfmEP/1.m3u8",
           "epgId": "M.LaLiga1.TV"
         },
         {
           "name": "M.LaLiga 2",
           "image": "img/canales/mliga.png",
           "url": "http://maxvideorep.com/live/movistar_laliga_2/index.m3u8",
-          "url1": "http://newplay.ddns.net:25461/live/newplay/jWEqVPfmEP/1.ts",
+          "url1": "http://maxvideorep.com/live/movistar_laliga_2/index.m3u8",
           "epgId": "M.LaLiga2.TV"
         },
         {
@@ -557,10 +522,8 @@
         {
           "name": "M. Liga de Campeones",
           "image": "img/canales/mligacampeones.png",
-          "url": "http://maxvideorep.com/live/movistar_liga_de_campeones/index.m3u8",
+          "url": "http://maxvideorep.com/live/movistar_liga_de_campeones_HD/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_liga_de_campeones_HD/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_liga_de_campeones_HD/index.m3u8",
-          "url3": "http://maxvideorep.com/live/movistar_liga_de_campeones_HD/index.m3u8",
           "epgId": "M.LigadeCampeones.TV"
         },
         {
@@ -568,8 +531,6 @@
           "image": "img/canales/mligacampeones.png",
           "url": "http://maxvideorep.com/live/movistar_liga_de_campeones_1_HD/index.m3u8",
           "url1": "http://maxvideorep.com/live/movistar_liga_de_campeones_1_HD/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_liga_de_campeones_1/index.m3u8",
-          "url3": "http://maxvideorep.com/live/movistar_liga_de_campeones_1/index.m3u8",
           "epgId": "M.LigadeCampeones1.TV"
         },
         {
@@ -710,16 +671,6 @@
           "image": "img/canales/directsport.png",
           "url": "http://maxvideorep.com/live/direct_sports/index.m3u8",
           "epgId": "DirectSport.TV"
-        },
-        {
-          "name": "Movistar Fórmula 1",
-          "image": "img/canales/formula1.png",
-          "url": "http://maxvideorep.com/live/movistar_formula_1/index.m3u8",
-          "url1": "http://maxvideorep.com/live/movistar_formula_1/index.m3u8",
-          "url2": "http://maxvideorep.com/live/movistar_formula_1_HD/index.m3u8",
-          "url3": "http://maxvideorep.com/live/movistar_formula_1_HD/index.m3u8",
-          "url4": "https://cdndailys.azureedge.net/LiveApp/streams/062648843338317181280381.m3u8",
-          "epgId": "MovistarFórmula1.TV"
         },
         {
           "name": "Toros",
@@ -952,6 +903,16 @@
           "url2": "http://maxvideorep.com/live/movistar_dazn_2_HD/index.m3u8",
           "url3": "http://maxvideorep.com/live/movistar_dazn_2_HD/index.m3u8",
           "epgId": "MDAZN2.TV"
+        },
+        {
+          "name": "Movistar DAZN F1",
+          "image": "img/canales/formula1.png",
+          "url": "http://maxvideorep.com/live/movistar_formula_1/index.m3u8",
+          "url1": "http://maxvideorep.com/live/movistar_formula_1/index.m3u8",
+          "url2": "http://maxvideorep.com/live/movistar_formula_1_HD/index.m3u8",
+          "url3": "http://maxvideorep.com/live/movistar_formula_1_HD/index.m3u8",
+          "url4": "https://cdndailys.azureedge.net/LiveApp/streams/062648843338317181280381.m3u8",
+          "epgId": "MDAZNF1.TV"
         },
         {
           "name": "DAZN 1",
