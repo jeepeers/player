@@ -17,7 +17,7 @@
           "image": "img/canales/la1.png",
           "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
           "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
-          "url2": "https://maxvideorep.com/live/la_1/index.m3u8",
+          "url2": "https://freevip.xyz/live/la_1/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-1/",
           "epgId": "LA1.TV"
         },
@@ -26,40 +26,40 @@
           "image": "img/canales/la2.png",
           "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8",
           "url1": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8",
-          "url2": "https://maxvideorep.com/live/la_2/index.m3u8",
+          "url2": "https://freevip.xyz/live/la_2/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-2/",
           "epgId": "LA2.TV"
         },
         {
           "name": "Antena 3",
           "image": "img/canales/antena3.png",
-          "url": "https://maxvideorep.com/live/antena_3/index.m3u8",
+          "url": "https://freevip.xyz/live/antena_3/index.m3u8",
           "url1": "https://directo.atresmedia.com/1608011979_512feb2ea89b01ae66d39bf79efd383f84db8eec/antena3/master.m3u8",
-          "url2": "https://maxvideorep.com/live/antena_3/index.m3u8",
+          "url2": "https://freevip.xyz/live/antena_3/index.m3u8",
           "urlweb": "https://www.atresplayer.com/directos/antena3/",
           "epgId": "Antena3.TV"
         },
         {
           "name": "Cuatro",
           "image": "img/canales/cuatro.png",
-          "url": "https://maxvideorep.com/live/cuatro/index.m3u8",
-          "url1": "https://maxvideorep.com/live/cuatro/index.m3u8",
+          "url": "https://freevip.xyz/live/cuatro/index.m3u8",
+          "url1": "https://freevip.xyz/live/cuatro/index.m3u8",
           "urlweb": "https://www.mitele.es/directo/cuatro",
           "epgId": "Cuatro.TV"
         },
         {
           "name": "Telecinco",
           "image": "img/canales/telecinco.png",
-          "url": "https://maxvideorep.com/live/telecinco/index.m3u8",
-          "url1": "https://maxvideorep.com/live/telecinco/index.m3u8",
+          "url": "https://freevip.xyz/live/telecinco/index.m3u8",
+          "url1": "https://freevip.xyz/live/telecinco/index.m3u8",
           "urlweb": "https://www.telecinco.es/endirecto/",
           "epgId": "Telecinco.TV"
         },
         {
           "name": "La Sexta",
           "image": "img/canales/seis.png",
-          "url": "https://maxvideorep.com/live/la_sexta/index.m3u8",
-          "url1": "https://maxvideorep.com/live/la_sexta/index.m3u8",
+          "url": "https://freevip.xyz/live/la_sexta/index.m3u8",
+          "url1": "https://freevip.xyz/live/la_sexta/index.m3u8",
           "urlweb": "https://www.atresplayer.com/directos/lasexta/",
           "epgId": "LaSexta.TV"
         },
@@ -74,79 +74,79 @@
         {
           "name": "Neox",
           "image": "img/canales/neox.png",
-          "url": "https://maxvideorep.com/live/neox/index.m3u8",
-          "url1": "https://maxvideorep.com/live/neox/index.m3u8",
+          "url": "https://freevip.xyz/live/neox/index.m3u8",
+          "url1": "https://freevip.xyz/live/neox/index.m3u8",
           "urlweb": "http://www.atresplayer.com/directos/television",
           "epgId": "Neox.TV"
         },
         {
           "name": "Nova",
           "image": "img/canales/nova.png",
-          "url": "https://maxvideorep.com/live/nova/index.m3u8",
-          "url1": "https://maxvideorep.com/live/nova/index.m3u8",
+          "url": "https://freevip.xyz/live/nova/index.m3u8",
+          "url1": "https://freevip.xyz/live/nova/index.m3u8",
           "urlweb": "http://www.atresplayer.com/directos/television",
           "epgId": "Nova.TV"
         },
         {
           "name": "Factoría de Ficción",
           "image": "img/canales/fdf.png",
-          "url": "https://maxvideorep.com/live/fdf/index.m3u8",
-          "url1": "https://maxvideorep.com/live/fdf/index.m3u8",
+          "url": "https://freevip.xyz/live/fdf/index.m3u8",
+          "url1": "https://freevip.xyz/live/fdf/index.m3u8",
           "epgId": "FactoríadeFicción.TV"
         },
         {
           "name": "Energy",
           "image": "img/canales/energy.png",
-          "url": "https://maxvideorep.com/live/energy/index.m3u8",
-          "url1": "https://maxvideorep.com/live/energy/index.m3u8",
+          "url": "https://freevip.xyz/live/energy/index.m3u8",
+          "url1": "https://freevip.xyz/live/energy/index.m3u8",
           "urlweb": "https://www.energytv.es/en-directo/",
           "epgId": "Energy.TV"
         },
         {
           "name": "Divinity",
           "image": "img/canales/divinity.png",
-          "url": "https://maxvideorep.com/live/divinity/index.m3u8",
-          "url1": "https://maxvideorep.com/live/divinity/index.m3u8",
+          "url": "https://freevip.xyz/live/divinity/index.m3u8",
+          "url1": "https://freevip.xyz/live/divinity/index.m3u8",
           "urlweb": "https://www.divinity.es/endirecto/",
           "epgId": "Divinity.TV"
         },
         {
           "name": "Mega",
           "image": "img/canales/mega.png",
-          "url": "https://maxvideorep.com/live/mega/index.m3u8",
-          "url1": "https://maxvideorep.com/live/mega/index.m3u8",
+          "url": "https://freevip.xyz/live/mega/index.m3u8",
+          "url1": "https://freevip.xyz/live/mega/index.m3u8",
           "urlweb": "http://www.atresplayer.com/directos/television/mega/",
           "epgId": "Mega.TV"
         },
         {
           "name": "Paramount Channel",
           "image": "img/canales/paramountchannel.png",
-          "url": "https://maxvideorep.com/live/paramount_channel/index.m3u8",
-          "url1": "https://maxvideorep.com/live/paramount_channel/index.m3u8",
+          "url": "https://freevip.xyz/live/paramount_channel/index.m3u8",
+          "url1": "https://freevip.xyz/live/paramount_channel/index.m3u8",
           "urlweb": "http://www.paramountchannel.es/programacion/en-directo",
           "epgId": "ParamountChannel.TV"
         },
         {
           "name": "Ten",
           "image": "img/canales/ten.png",
-          "url": "https://maxvideorep.com/live/ten/index.m3u8",
-          "url1": "https://maxvideorep.com/live/ten/index.m3u8",
+          "url": "https://freevip.xyz/live/ten/index.m3u8",
+          "url1": "https://freevip.xyz/live/ten/index.m3u8",
           "urlweb": "http://tentv.es/",
           "epgId": "Ten.TV"
         },
         {
           "name": "DKISS",
           "image": "img/canales/dkiss.png",
-          "url": "https://maxvideorep.com/live/dkiss/index.m3u8",
-          "url1": "https://maxvideorep.com/live/dkiss/index.m3u8",
+          "url": "https://freevip.xyz/live/dkiss/index.m3u8",
+          "url1": "https://freevip.xyz/live/dkiss/index.m3u8",
           "urlweb": "http://www.dkiss.es/",
           "epgId": "DKISS.TV"
         },
         {
           "name": "BEMAD",
           "image": "img/canales/bemad.png",
-          "url": "https://maxvideorep.com/live/be_mad/index.m3u8",
-          "url1": "https://maxvideorep.com/live/be_mad/index.m3u8",
+          "url": "https://freevip.xyz/live/be_mad/index.m3u8",
+          "url1": "https://freevip.xyz/live/be_mad/index.m3u8",
           "urlweb": "https://www.bemad.es/endirecto/",
           "epgId": "BEMAD.TV"
         },
@@ -161,8 +161,8 @@
         {
           "name": "Viajar",
           "image": "img/canales/viajar.png",
-          "url": "https://maxvideorep.com/live/viajar/index.m3u8",
-          "url1": "https://maxvideorep.com/live/viajar/index.m3u8",
+          "url": "https://freevip.xyz/live/viajar/index.m3u8",
+          "url1": "https://freevip.xyz/live/viajar/index.m3u8",
           "epgId": "Viajar.TV"
         },
         {
@@ -279,64 +279,64 @@
         {
           "name": "A3series",
           "image": "img/canales/a3s.png",
-          "url": "https://maxvideorep.com/live/atreseries/index.m3u8",
-          "url1": "https://maxvideorep.com/live/atreseries/index.m3u8",
+          "url": "https://freevip.xyz/live/atreseries/index.m3u8",
+          "url1": "https://freevip.xyz/live/atreseries/index.m3u8",
           "epgId": "A3series.TV"
         },
         {
           "name": "Movistar Series",
           "image": "img/canales/mseries.png",
-          "url": "https://maxvideorep.com/live/movistar_series/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_series/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_series/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_series/index.m3u8",
           "epgId": "MovistarSeries.TV"
         },
         {
           "name": "M. Seriesmanía",
           "image": "img/canales/mseriesmania.png",
-          "url": "https://maxvideorep.com/live/movistar_seriesmania/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_seriesmania/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_seriesmania/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_seriesmania/index.m3u8",
           "epgId": "M.Seriesmanía.TV"
         },
         {
           "name": "Comedy Central",
           "image": "img/canales/comedy.png",
-          "url": "https://maxvideorep.com/live/comedy_central/index.m3u8",
-          "url1": "https://maxvideorep.com/live/comedy_central/index.m3u8",
+          "url": "https://freevip.xyz/live/comedy_central/index.m3u8",
+          "url1": "https://freevip.xyz/live/comedy_central/index.m3u8",
           "epgId": "ComedyCentral.TV"
         },
         {
           "name": "#0",
           "image": "img/canales/m0.png",
-          "url": "https://maxvideorep.com/live/0/index.m3u8",
-          "url1": "https://maxvideorep.com/live/0/index.m3u8",
+          "url": "https://freevip.xyz/live/0/index.m3u8",
+          "url1": "https://freevip.xyz/live/0/index.m3u8",
           "epgId": "#0.TV"
         },
         {
           "name": "Sundance",
           "image": "img/canales/sundance.png",
-          "url": "https://maxvideorep.com/live/sundance/index.m3u8",
-          "url1": "https://maxvideorep.com/live/sundance/index.m3u8",
+          "url": "https://freevip.xyz/live/sundance/index.m3u8",
+          "url1": "https://freevip.xyz/live/sundance/index.m3u8",
           "epgId": "Sundance.TV"
         },
         {
           "name": "Fox",
           "image": "img/canales/fox.png",
-          "url": "https://maxvideorep.com/live/fox/index.m3u8",
-          "url1": "https://maxvideorep.com/live/fox/index.m3u8",
+          "url": "https://freevip.xyz/live/fox/index.m3u8",
+          "url1": "https://freevip.xyz/live/fox/index.m3u8",
           "epgId": "Fox.TV"
         },
         {
           "name": "Fox Life",
           "image": "img/canales/foxlife.png",
-          "url": "https://maxvideorep.com/live/fox_life/index.m3u8",
-          "url1": "https://maxvideorep.com/live/fox_life/index.m3u8",
+          "url": "https://freevip.xyz/live/fox_life/index.m3u8",
+          "url1": "https://freevip.xyz/live/fox_life/index.m3u8",
           "epgId": "FoxLife.TV"
         },
         {
           "name": "SYFY",
           "image": "img/canales/syfy.png",
-          "url": "https://maxvideorep.com/live/syfy/index.m3u8",
-          "url1": "https://maxvideorep.com/live/syfy/index.m3u8",
+          "url": "https://freevip.xyz/live/syfy/index.m3u8",
+          "url1": "https://freevip.xyz/live/syfy/index.m3u8",
           "epgId": "SYFY.TV"
         }
       ]
@@ -348,120 +348,120 @@
         {
           "name": "AXN",
           "image": "img/canales/axn.png",
-          "url": "https://maxvideorep.com/live/axn/index.m3u8",
-          "url1": "https://maxvideorep.com/live/axn/index.m3u8",
+          "url": "https://freevip.xyz/live/axn/index.m3u8",
+          "url1": "https://freevip.xyz/live/axn/index.m3u8",
           "epgId": "AXN.TV"
         },
         {
           "name": "AXN White",
           "image": "img/canales/axnwhite.png",
-          "url": "https://maxvideorep.com/live/axn_white/index.m3u8",
-          "url1": "https://maxvideorep.com/live/axn_white/index.m3u8",
+          "url": "https://freevip.xyz/live/axn_white/index.m3u8",
+          "url1": "https://freevip.xyz/live/axn_white/index.m3u8",
           "epgId": "AXNWhite.TV"
         },
         {
           "name": "Hollywood",
           "image": "img/canales/holly.png",
-          "url": "https://maxvideorep.com/live/hollywood/index.m3u8",
-          "url1": "https://maxvideorep.com/live/hollywood/index.m3u8",
+          "url": "https://freevip.xyz/live/hollywood/index.m3u8",
+          "url1": "https://freevip.xyz/live/hollywood/index.m3u8",
           "epgId": "Hollywood.TV"
         },
         {
           "name": "Dark",
           "image": "img/canales/dark.png",
-          "url": "https://maxvideorep.com/live/dark/index.m3u8",
-          "url1": "https://maxvideorep.com/live/dark/index.m3u8",
+          "url": "https://freevip.xyz/live/dark/index.m3u8",
+          "url1": "https://freevip.xyz/live/dark/index.m3u8",
           "epgId": "Dark.TV"
         },
         {
           "name": "AMC",
           "image": "img/canales/amc.png",
-          "url": "https://maxvideorep.com/live/amc/index.m3u8",
-          "url1": "https://maxvideorep.com/live/amc/index.m3u8",
+          "url": "https://freevip.xyz/live/amc/index.m3u8",
+          "url1": "https://freevip.xyz/live/amc/index.m3u8",
           "epgId": "AMC.TV"
         },
         {
           "name": "TCM",
           "image": "img/canales/tcm.png",
-          "url": "https://maxvideorep.com/live/tcm/index.m3u8",
-          "url1": "https://maxvideorep.com/live/tcm/index.m3u8",
+          "url": "https://freevip.xyz/live/tcm/index.m3u8",
+          "url1": "https://freevip.xyz/live/tcm/index.m3u8",
           "epgId": "TCM.TV"
         },
         {
           "name": "Calle 13",
           "image": "img/canales/calle13.png",
-          "url": "https://maxvideorep.com/live/calle_13/index.m3u8",
-          "url1": "https://maxvideorep.com/live/calle_13/index.m3u8",
+          "url": "https://freevip.xyz/live/calle_13/index.m3u8",
+          "url1": "https://freevip.xyz/live/calle_13/index.m3u8",
           "epgId": "Calle13.TV"
         },
         {
           "name": "Somos",
           "image": "img/canales/somos.png",
-          "url": "https://maxvideorep.com/live/somos/index.m3u8",
-          "url1": "https://maxvideorep.com/live/somos/index.m3u8",
+          "url": "https://freevip.xyz/live/somos/index.m3u8",
+          "url1": "https://freevip.xyz/live/somos/index.m3u8",
           "epgId": "Somos.TV"
         },
         {
           "name": "M. Drama",
           "image": "img/canales/drama.png",
-          "url": "https://maxvideorep.com/live/movistar_drama/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_drama/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_drama/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_drama/index.m3u8",
           "epgId": "M.Drama.TV"
         },
         {
           "name": "Movistar Estrenos",
           "image": "img/canales/mestrenos.png",
-          "url": "https://maxvideorep.com/live/movistar_estrenos/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_estrenos/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_estrenos/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_estrenos/index.m3u8",
           "epgId": "MovistarEstrenos.TV"
         },
         {
           "name": "M.CineDoc&Roll",
           "image": "img/canales/mdocroll.png",
-          "url": "https://maxvideorep.com/live/movistar_cinedocroll/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_cinedocroll/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_cinedocroll/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_cinedocroll/index.m3u8",
           "epgId": "M.CineDoc&Roll.TV"
         },
         {
           "name": "Movistar Comedia",
           "image": "img/canales/mcomedia.png",
-          "url": "https://maxvideorep.com/live/movistar_comedia/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_comedia/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_comedia/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_comedia/index.m3u8",
           "epgId": "MovistarComedia.TV"
         },
         {
           "name": "Movistar Acción",
           "image": "img/canales/maccion.png",
-          "url": "https://maxvideorep.com/live/movistar_accion/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_accion/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_accion/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_accion/index.m3u8",
           "epgId": "MovistarAcción.TV"
         },
         {
           "name": "Movistar Cine N",
           "image": "img/canales/maccion.png",
-          "url": "https://maxvideorep.com/live/movistar_cine_espanol/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_cine_espanol/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
           "epgId": "MovistarCineN.TV"
         },
         {
           "name": "Xtrm",
           "image": "img/canales/xtrm.png",
-          "url": "https://maxvideorep.com/live/xtrm/index.m3u8",
-          "url1": "https://maxvideorep.com/live/xtrm/index.m3u8",
+          "url": "https://freevip.xyz/live/xtrm/index.m3u8",
+          "url1": "https://freevip.xyz/live/xtrm/index.m3u8",
           "epgId": "Xtrm.TV"
         },
         {
           "name": "TNT",
           "image": "img/canales/tnt.png",
-          "url": "https://maxvideorep.com/live/tnt/index.m3u8",
-          "url1": "https://maxvideorep.com/live/tnt/index.m3u8",
+          "url": "https://freevip.xyz/live/tnt/index.m3u8",
+          "url1": "https://freevip.xyz/live/tnt/index.m3u8",
           "epgId": "TNT.TV"
         },
         {
           "name": "COSMO",
           "image": "img/canales/cosmo.png",
-          "url": "https://maxvideorep.com/live/cosmo/index.m3u8",
-          "url1": "https://maxvideorep.com/live/cosmo/index.m3u8",
+          "url": "https://freevip.xyz/live/cosmo/index.m3u8",
+          "url1": "https://freevip.xyz/live/cosmo/index.m3u8",
           "epgId": "COSMO.TV"
         }
       ]
@@ -480,93 +480,93 @@
         {
           "name": "La Liga TV",
           "image": "img/canales/liga123.png",
-          "url": "https://maxvideorep.com/live/la_liga_tv/index.m3u8",
-          "url1": "https://maxvideorep.com/live/la_liga_tv/index.m3u8",
+          "url": "https://freevip.xyz/live/la_liga_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/la_liga_tv/index.m3u8",
           "epgId": "LaLigaTV.TV"
         },
         {
           "name": "M. LaLiga",
           "image": "img/canales/mliga.png",
-          "url": "https://maxvideorep.com/live/movistar_laliga/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_laliga/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
           "epgId": "M.LaLiga.TV"
         },
         {
           "name": "M. LaLiga 1",
           "image": "img/canales/mliga.png",
-          "url": "https://maxvideorep.com/live/movistar_laliga/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_laliga/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
           "epgId": "M.LaLiga1.TV"
         },
         {
           "name": "M.LaLiga 2",
           "image": "img/canales/mliga.png",
-          "url": "https://maxvideorep.com/live/movistar_laliga_2/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_laliga_2/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_laliga_2/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_laliga_2/index.m3u8",
           "epgId": "M.LaLiga2.TV"
         },
         {
           "name": "M.LaLiga 3",
           "image": "img/canales/mliga.png",
-          "url": "https://maxvideorep.com/live/movistar_laliga_3/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_laliga_3/index.m3u8",
           "epgId": "M.LaLiga3.TV"
         },
         {
           "name": "Real Madrid TV",
           "image": "img/canales/realmadridtv.png",
           "url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
-          "url1": "https://maxvideorep.com/live/real_madrid_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/real_madrid_tv/index.m3u8",
           "urlweb": "https://www.realmadrid.com/real-madrid-tv",
           "epgId": "RealMadridTV.TV"
         },
         {
           "name": "M. Liga de Campeones",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_liga_de_campeones/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
           "epgId": "M.LigadeCampeones.TV"
         },
         {
           "name": "M. Liga de Campeones 1",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_liga_de_campeones/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
           "epgId": "M.LigadeCampeones1.TV"
         },
         {
           "name": "M. Liga de Campeones 2",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones_2/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_2/index.m3u8",
           "epgId": "M.LigadeCampeones2.TV"
         },
         {
           "name": "M. Liga de Campeones 3",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones_3/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_3/index.m3u8",
           "epgId": "M.LigadeCampeones3.TV"
         },
         {
           "name": "M. Liga de Campeones 4",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones_4/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_4/index.m3u8",
           "epgId": "M.LigadeCampeones4.TV"
         },
         {
           "name": "M. Liga de Campeones 5",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones_5/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_5/index.m3u8",
           "epgId": "M.LigadeCampeones5.TV"
         },
         {
           "name": "M. Liga de Campeones 6",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones_6/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_6/index.m3u8",
           "epgId": "M.LigadeCampeones6.TV"
         },
         {
           "name": "M. Liga de Campeones 7",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://maxvideorep.com/live/movistar_liga_de_campeones_7/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_7/index.m3u8",
           "epgId": "M.LigadeCampeones7.TV"
         }
       ]
@@ -583,135 +583,85 @@
           "epgId": "Esport3.TV"
         },
         {
-          "name": "Win Sport",
-          "image": "img/canales/winsport.png",
-          "url": "https://maxvideorep.com/live/winsport/index.m3u8",
-          "epgId": "WinSport.TV"
-        },
-        {
-          "name": "Fox Sport",
-          "image": "img/canales/foxsport.png",
-          "url": "https://maxvideorep.com/live/fox_sports1/index.m3u8",
-          "epgId": "FoxSport.TV"
-        },
-        {
-          "name": "Fox Sport 2",
-          "image": "img/canales/foxsport2.png",
-          "url": "https://maxvideorep.com/live/fox_sports2/index.m3u8",
-          "epgId": "FoxSport2.TV"
-        },
-        {
-          "name": "ESPN",
-          "image": "img/canales/espn.png",
-          "url": "https://maxvideorep.com/live/espn/index.m3u8",
-          "url1": "https://maxvideorep.com/live/espn_2/index.m3u8",
-          "epgId": "ESPN.TV"
-        },
-        {
-          "name": "Fox Sport 2",
-          "image": "img/canales/foxsport2.png",
-          "url": "https://maxvideorep.com/live/fox_sports2/index.m3u8",
-          "epgId": "FoxSport2.TV"
-        },
-        {
           "name": "Movistar Golf",
           "image": "img/canales/mgolf.png",
-          "url": "https://maxvideorep.com/live/movistar_golf/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_golf/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_golf/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_golf/index.m3u8",
           "epgId": "MovistarGolf.TV"
         },
         {
           "name": "Cazavision",
           "image": "img/canales/tycsport.png",
-          "url": "https://maxvideorep.com/live/cazavision/index.m3u8",
-          "url1": "https://maxvideorep.com/live/cazavision/index.m3u8",
+          "url": "https://freevip.xyz/live/cazavision/index.m3u8",
+          "url1": "https://freevip.xyz/live/cazavision/index.m3u8",
           "epgId": "Cazavision.TV"
         },
         {
           "name": "Teledeporte",
           "image": "img/canales/tdp.png",
-          "url": "https://maxvideorep.com/live/teledeporte/index.m3u8",
+          "url": "https://freevip.xyz/live/teledeporte/index.m3u8",
           "url1": "https://rtvelivestream.akamaized.net/tdp_dvr.m3u8",
-          "url2": "https://rtvelivestream.akamaized.net/tdp_dvr.m3u8",
           "urlweb": "http://www.rtve.es/directo/teledeporte/",
           "epgId": "Teledeporte.TV"
         },
         {
           "name": "Eurosport 1",
           "image": "img/canales/eurosport.png",
-          "url": "https://maxvideorep.com/live/eurosport/index.m3u8",
-          "url1": "https://maxvideorep.com/live/eurosport/index.m3u8",
+          "url": "https://freevip.xyz/live/eurosport/index.m3u8",
+          "url1": "https://freevip.xyz/live/eurosport/index.m3u8",
           "urlweb": "https://www.eurosport.es/",
           "epgId": "Eurosport1.TV"
         },
         {
           "name": "Eurosport 2",
           "image": "img/canales/eurosport.png",
-          "url": "https://maxvideorep.com/live/eurosport_2/index.m3u8",
-          "url1": "https://maxvideorep.com/live/eurosport_2/index.m3u8",
+          "url": "https://freevip.xyz/live/eurosport_2/index.m3u8",
+          "url1": "https://freevip.xyz/live/eurosport_2/index.m3u8",
           "urlweb": "https://www.eurosport.es/",
           "epgId": "Eurosport2.TV"
         },
         {
           "name": "Caza y Pesca",
           "image": "img/canales/caza.png",
-          "url": "https://maxvideorep.com/live/caza_y_pesca/index.m3u8",
-          "url1": "https://maxvideorep.com/live/caza_y_pesca/index.m3u8",
+          "url": "https://freevip.xyz/live/caza_y_pesca/index.m3u8",
+          "url1": "https://freevip.xyz/live/caza_y_pesca/index.m3u8",
           "epgId": "CazayPesca.TV"
         },
         {
           "name": "Iberalia TV",
           "image": "img/canales/iberalia.png",
-          "url": "https://maxvideorep.com/live/iberalia/index.m3u8",
-          "url1": "https://maxvideorep.com/live/iberalia/index.m3u8",
+          "url": "https://freevip.xyz/live/iberalia/index.m3u8",
+          "url1": "https://freevip.xyz/live/iberalia/index.m3u8",
           "epgId": "IberaliaTV.TV"
-        },
-        {
-          "name": "Direct Sport",
-          "image": "img/canales/directsport.png",
-          "url": "https://maxvideorep.com/live/direct_sports/index.m3u8",
-          "epgId": "DirectSport.TV"
         },
         {
           "name": "Toros",
           "image": "img/canales/toros.png",
-          "url": "https://maxvideorep.com/live/toros_tv/index.m3u8",
-          "url1": "https://maxvideorep.com/live/toros_tv/index.m3u8",
+          "url": "https://freevip.xyz/live/toros_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/toros_tv/index.m3u8",
           "epgId": "Toros.TV"
         },
         {
           "name": "GOL",
           "image": "img/canales/goltv.png",
-          "url": "https://maxvideorep.com/live/gol_tv/index.m3u8",
-          "url1": "https://maxvideorep.com/live/gol_tv/index.m3u8",
+          "url": "https://freevip.xyz/live/gol_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/gol_tv/index.m3u8",
           "urlweb": "https://www.goltelevision.com/",
           "epgId": "GOL.TV"
         },
         {
           "name": "Movistar Deportes 1",
           "image": "img/canales/mdeportes1.png",
-          "url": "https://maxvideorep.com/live/movistar_deportes/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_deportes/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_deportes/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_deportes/index.m3u8",
           "epgId": "MovistarDeportes1.TV"
         },
         {
           "name": "#Vamos",
           "image": "img/canales/vamos.png",
-          "url": "https://maxvideorep.com/live/vamos/index.m3u8",
-          "url1": "https://maxvideorep.com/live/vamos/index.m3u8",
+          "url": "https://freevip.xyz/live/vamos/index.m3u8",
+          "url1": "https://freevip.xyz/live/vamos/index.m3u8",
           "epgId": "Vamos.TV"
-        },
-        {
-          "name": "UFC",
-          "image": "img/canales/ufc.png",
-          "url": "https://maxvideorep.com/live/ufc/index.m3u8",
-          "epgId": "UFC.TV"
-        },
-        {
-          "name": "Bein N",
-          "image": "img/canales/being.png",
-          "url": "https://maxvideorep.com/live/bein_n/index.m3u8",
-          "epgId": "BeinN.TV"
         }
       ]
     },
@@ -722,88 +672,82 @@
         {
           "name": "Discovery Max",
           "image": "img/canales/dmax.png",
-          "url": "https://maxvideorep.com/live/dmax/index.m3u8",
-          "url1": "https://maxvideorep.com/live/dmax/index.m3u8",
+          "url": "https://freevip.xyz/live/dmax/index.m3u8",
+          "url1": "https://freevip.xyz/live/dmax/index.m3u8",
           "epgId": "DiscoveryMax.TV"
         },
         {
           "name": "Crimen + Investigación",
           "image": "img/canales/ci.png",
-          "url": "https://maxvideorep.com/live/crimen_investigacion/index.m3u8",
-          "url1": "https://maxvideorep.com/live/crimen_investigacion/index.m3u8",
+          "url": "https://freevip.xyz/live/crimen_investigacion/index.m3u8",
+          "url1": "https://freevip.xyz/live/crimen_investigacion/index.m3u8",
           "epgId": "Crimen+Investigación.TV"
         },
         {
           "name": "Blaze",
           "image": "img/canales/blaze.png",
-          "url": "https://maxvideorep.com/live/blaze/index.m3u8",
-          "url1": "https://maxvideorep.com/live/blaze/index.m3u8",
+          "url": "https://freevip.xyz/live/blaze/index.m3u8",
+          "url1": "https://freevip.xyz/live/blaze/index.m3u8",
           "epgId": "Blaze.TV"
         },
         {
           "name": "Discovery",
           "image": "img/canales/dchanel.png",
-          "url": "https://maxvideorep.com/live/discovery_channel/index.m3u8",
-          "url1": "https://maxvideorep.com/live/discovery_channel/index.m3u8",
+          "url": "https://freevip.xyz/live/discovery_channel/index.m3u8",
+          "url1": "https://freevip.xyz/live/discovery_channel/index.m3u8",
           "epgId": "Discovery.TV"
-        },
-        {
-          "name": "Discovery Science",
-          "image": "img/canales/dscience.png",
-          "url": "https://maxvideorep.com/live/discovery_science/index.m3u8",
-          "epgId": "DiscoveryScience.TV"
         },
         {
           "name": "Historia",
           "image": "img/canales/historia.png",
-          "url": "https://maxvideorep.com/live/historia/index.m3u8",
-          "url1": "https://maxvideorep.com/live/historia/index.m3u8",
+          "url": "https://freevip.xyz/live/historia/index.m3u8",
+          "url1": "https://freevip.xyz/live/historia/index.m3u8",
           "epgId": "Historia.TV"
         },
         {
           "name": "National Geographic",
           "image": "img/canales/natgeo.png",
-          "url": "https://maxvideorep.com/live/national_geographic_channel/index.m3u8",
-          "url1": "https://maxvideorep.com/live/national_geographic_channel/index.m3u8",
+          "url": "https://freevip.xyz/live/national_geographic_channel/index.m3u8",
+          "url1": "https://freevip.xyz/live/national_geographic_channel/index.m3u8",
           "urlweb": "https://www.nationalgeographic.es/",
           "epgId": "NationalGeographic.TV"
         },
         {
           "name": "Nat Geo Wild",
           "image": "img/canales/natwild.png",
-          "url": "https://maxvideorep.com/live/national_geographic_wild/index.m3u8",
-          "url1": "https://maxvideorep.com/live/national_geographic_wild/index.m3u8",
+          "url": "https://freevip.xyz/live/national_geographic_wild/index.m3u8",
+          "url1": "https://freevip.xyz/live/national_geographic_wild/index.m3u8",
           "epgId": "NatGeoWild.TV"
         },
         {
           "name": "Odisea",
           "image": "img/canales/odisea.png",
-          "url": "https://maxvideorep.com/live/odisea/index.m3u8",
-          "url1": "https://maxvideorep.com/live/odisea/index.m3u8",
+          "url": "https://freevip.xyz/live/odisea/index.m3u8",
+          "url1": "https://freevip.xyz/live/odisea/index.m3u8",
           "urlweb": "https://www.nationalgeographic.es/",
           "epgId": "Odisea.TV"
         },
         {
           "name": "MTV",
           "image": "img/canales/mtv.png",
-          "url": "https://maxvideorep.com/live/mtv/index.m3u8",
-          "url1": "https://maxvideorep.com/live/mtv/index.m3u8",
+          "url": "https://freevip.xyz/live/mtv/index.m3u8",
+          "url1": "https://freevip.xyz/live/mtv/index.m3u8",
           "urlweb": "http://www.mtv.es/",
           "epgId": "MTV.TV"
         },
         {
           "name": "Canal Cocina",
           "image": "img/canales/cocina.png",
-          "url": "https://maxvideorep.com/live/canal_cocina/index.m3u8",
-          "url1": "https://maxvideorep.com/live/canal_cocina/index.m3u8",
+          "url": "https://freevip.xyz/live/canal_cocina/index.m3u8",
+          "url1": "https://freevip.xyz/live/canal_cocina/index.m3u8",
           "urlweb": "http://canalcocina.es/",
           "epgId": "CanalCocina.TV"
         },
         {
           "name": "Canal Decasa",
           "image": "img/canales/decasa.png",
-          "url": "https://maxvideorep.com/live/decasa/index.m3u8",
-          "url1": "https://maxvideorep.com/live/decasa/index.m3u8",
+          "url": "https://freevip.xyz/live/decasa/index.m3u8",
+          "url1": "https://freevip.xyz/live/decasa/index.m3u8",
           "epgId": "CanalDecasa.TV"
         }
       ]
@@ -815,30 +759,30 @@
         {
           "name": "Disney +",
           "image": "img/canales/disney.png",
-          "url": "https://maxvideorep.com/live/disney_/index.m3u8",
-          "url1": "https://maxvideorep.com/live/disney_/index.m3u8",
+          "url": "https://freevip.xyz/live/disney_/index.m3u8",
+          "url1": "https://freevip.xyz/live/disney_/index.m3u8",
           "epgId": "Disney+.TV"
         },
         {
           "name": "Baby TV",
           "image": "img/canales/babytv.png",
-          "url": "https://maxvideorep.com/live/baby_tv/index.m3u8",
-          "url1": "https://maxvideorep.com/live/baby_tv/index.m3u8",
+          "url": "https://freevip.xyz/live/baby_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/baby_tv/index.m3u8",
           "epgId": "BabyTV.TV"
         },
         {
           "name": "Disney Channel",
           "image": "img/canales/disneychannel.png",
-          "url": "https://maxvideorep.com/live/disney_channel/index.m3u8",
-          "url1": "https://maxvideorep.com/live/disney_channel/index.m3u8",
+          "url": "https://freevip.xyz/live/disney_channel/index.m3u8",
+          "url1": "https://freevip.xyz/live/disney_channel/index.m3u8",
           "urlweb": "http://tv.disney.es/disney-channel",
           "epgId": "DisneyChannel.TV"
         },
         {
           "name": "Boing",
           "image": "img/canales/boing.png",
-          "url": "https://maxvideorep.com/live/boing/index.m3u8",
-          "url1": "https://maxvideorep.com/live/boing/index.m3u8",
+          "url": "https://freevip.xyz/live/boing/index.m3u8",
+          "url1": "https://freevip.xyz/live/boing/index.m3u8",
           "urlweb": "https://www.mitele.es/directo/boing",
           "epgId": "Boing.TV"
         },
@@ -846,37 +790,37 @@
           "name": "Clan TVE",
           "image": "img/canales/clan.png",
           "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8",
-          "url1": "https://maxvideorep.com/live/clan/index.m3u8",
+          "url1": "https://freevip.xyz/live/clan/index.m3u8",
           "urlweb": "http://www.rtve.es/infantil/",
           "epgId": "ClanTVE.TV"
         },
         {
           "name": "Disney Junior",
           "image": "img/canales/disneyjunior.png",
-          "url": "https://maxvideorep.com/live/disney_junior/index.m3u8",
-          "url1": "https://maxvideorep.com/live/disney_junior/index.m3u8",
+          "url": "https://freevip.xyz/live/disney_junior/index.m3u8",
+          "url1": "https://freevip.xyz/live/disney_junior/index.m3u8",
           "epgId": "DisneyJunior.TV"
         },
         {
           "name": "Canal Panda",
           "image": "img/canales/panda.png",
-          "url": "https://maxvideorep.com/live/canal_panda/index.m3u8",
-          "url1": "https://maxvideorep.com/live/canal_panda/index.m3u8",
+          "url": "https://freevip.xyz/live/canal_panda/index.m3u8",
+          "url1": "https://freevip.xyz/live/canal_panda/index.m3u8",
           "epgId": "CanalPanda.TV"
         },
         {
           "name": "NICK JR",
           "image": "img/canales/nick.png",
-          "url": "https://maxvideorep.com/live/nick_jr/index.m3u8",
-          "url1": "https://maxvideorep.com/live/nick_jr/index.m3u8",
+          "url": "https://freevip.xyz/live/nick_jr/index.m3u8",
+          "url1": "https://freevip.xyz/live/nick_jr/index.m3u8",
           "urlweb": "http://www.nickelodeon.es/",
           "epgId": "NICKJR.TV"
         },
         {
           "name": "Nickelodeon",
           "image": "img/canales/nick.png",
-          "url": "https://maxvideorep.com/live/nickelodeon/index.m3u8",
-          "url1": "https://maxvideorep.com/live/nickelodeon/index.m3u8",
+          "url": "https://freevip.xyz/live/nickelodeon/index.m3u8",
+          "url1": "https://freevip.xyz/live/nickelodeon/index.m3u8",
           "urlweb": "http://www.nickelodeon.es/",
           "epgId": "Nickelodeon.TV"
         }
@@ -889,100 +833,100 @@
         {
           "name": "Movistar DAZN 1",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/movistar_dazn_1/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_dazn_1/index.m3u8",
-          "url2": "https://maxvideorep.com/live/movistar_dazn_1/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_dazn_1/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_dazn_1/index.m3u8",
+          "url2": "https://freevip.xyz/live/movistar_dazn_1/index.m3u8",
           "epgId": "MDAZN1.TV"
         },
         {
           "name": "Movistar DAZN 2",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/movistar_dazn_2/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_dazn_2/index.m3u8",
-          "url2": "https://maxvideorep.com/live/movistar_dazn_2/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_dazn_2/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_dazn_2/index.m3u8",
+          "url2": "https://freevip.xyz/live/movistar_dazn_2/index.m3u8",
           "epgId": "MDAZN2.TV"
         },
         {
           "name": "Movistar DAZN F1",
           "image": "img/canales/formula1.png",
-          "url": "https://maxvideorep.com/live/movistar_formula_1/index.m3u8",
-          "url1": "https://maxvideorep.com/live/movistar_formula_1/index.m3u8",
-          "url2": "https://maxvideorep.com/live/movistar_formula_1/index.m3u8",
+          "url": "https://freevip.xyz/live/movistar_formula_1/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_formula_1/index.m3u8",
+          "url2": "https://freevip.xyz/live/movistar_formula_1/index.m3u8",
           "epgId": "MDAZNF1.TV"
         },
         {
           "name": "DAZN 1",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_1/index.m3u8",
-          "url1": "https://maxvideorep.com/live/dazn_1/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_1/index.m3u8",
+          "url1": "https://freevip.xyz/live/dazn_1/index.m3u8",
           "epgId": "DAZN1.TV"
         },
         {
           "name": "DAZN 2",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_2/index.m3u8",
-          "url1": "https://maxvideorep.com/live/dazn_2/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_2/index.m3u8",
+          "url1": "https://freevip.xyz/live/dazn_2/index.m3u8",
           "epgId": "DAZN2.TV"
         },
         {
           "name": "DAZN 3",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_3/index.m3u8",
-          "url1": "https://maxvideorep.com/live/dazn_3/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_3/index.m3u8",
+          "url1": "https://freevip.xyz/live/dazn_3/index.m3u8",
           "epgId": "DAZN3.TV"
         },
         {
           "name": "DAZN 4",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_4/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_4/index.m3u8",
           "epgId": "DAZN4.TV"
         },
         {
           "name": "DAZN 5",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_5/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_5/index.m3u8",
           "epgId": "DAZN5.TV"
         },
         {
           "name": "DAZN 6",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_6/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_6/index.m3u8",
           "epgId": "DAZN6.TV"
         },
         {
           "name": "DAZN 7",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_7/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_7/index.m3u8",
           "epgId": "DAZN7.TV"
         },
         {
           "name": "DAZN 8",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_8/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_8/index.m3u8",
           "epgId": "DAZN8.TV"
         },
         {
           "name": "DAZN 9",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_9/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_9/index.m3u8",
           "epgId": "DAZN9.TV"
         },
         {
           "name": "DAZN 10",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_10/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_10/index.m3u8",
           "epgId": "DAZN10.TV"
         },
         {
           "name": "DAZN 11",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_11/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_11/index.m3u8",
           "epgId": "DAZN11.TV"
         },
         {
           "name": "DAZN 12",
           "image": "img/canales/dazn.png",
-          "url": "https://maxvideorep.com/live/dazn_12/index.m3u8",
+          "url": "https://freevip.xyz/live/dazn_12/index.m3u8",
           "epgId": "DAZN12.TV"
         }
       ]
@@ -994,73 +938,73 @@
         {
           "name": "Playboy TV",
           "image": "img/canales/playboy.png",
-          "url": "https://maxvideorep.com/live/playboy/index.m3u8",
+          "url": "https://freevip.xyz/live/playboy/index.m3u8",
           "epgId": "PlayboyTV.TV"
         },
         {
           "name": "Hot",
           "image": "img/canales/hot.png",
-          "url": "https://maxvideorep.com/live/hot/index.m3u8",
+          "url": "https://freevip.xyz/live/hot/index.m3u8",
           "epgId": "Hot.TV"
         },
         {
           "name": "Dorcel",
           "image": "img/canales/dorcel.png",
-          "url": "https://maxvideorep.com/live/dorcell/index.m3u8",
+          "url": "https://freevip.xyz/live/dorcell/index.m3u8",
           "epgId": "Dorcel.TV"
         },
         {
           "name": "Blue Hustler",
           "image": "img/canales/hustler.png",
-          "url": "https://maxvideorep.com/live/blue_hustler/index.m3u8",
+          "url": "https://freevip.xyz/live/blue_hustler/index.m3u8",
           "epgId": "BlueHustler.TV"
         },
         {
           "name": "Redlight",
           "image": "img/canales/redlight.png",
-          "url": "https://maxvideorep.com/live/redlight/index.m3u8",
+          "url": "https://freevip.xyz/live/redlight/index.m3u8",
           "epgId": "Redlight.TV"
         },
         {
           "name": "Penthouse",
           "image": "img/canales/pent.png",
-          "url": "https://maxvideorep.com/live/penthouse/index.m3u8",
+          "url": "https://freevip.xyz/live/penthouse/index.m3u8",
           "epgId": "Penthouse.TV"
         },
         {
           "name": "Penthouse 1",
           "image": "img/canales/pent.png",
-          "url": "https://maxvideorep.com/live/dusk/index.m3u8",
+          "url": "https://freevip.xyz/live/dusk/index.m3u8",
           "epgId": "Penthouse1.TV"
         },
         {
           "name": "Hustler",
           "image": "img/canales/hustler.png",
-          "url": "https://maxvideorep.com/live/hustler/index.m3u8",
+          "url": "https://freevip.xyz/live/hustler/index.m3u8",
           "epgId": "Hustler.TV"
         },
         {
           "name": "Brazzers",
           "image": "img/canales/brazzers.png",
-          "url": "https://maxvideorep.com/live/brazzers/index.m3u8",
+          "url": "https://freevip.xyz/live/brazzers/index.m3u8",
           "epgId": "Brazzers.TV"
         },
         {
           "name": "Red XXX",
           "image": "img/canales/red_xxx.png",
-          "url": "https://maxvideorep.com/live/alba_xxx/index.m3u8",
+          "url": "https://freevip.xyz/live/alba_xxx/index.m3u8",
           "epgId": "RedXXX.TV"
         },
         {
           "name": "Venus",
           "image": "img/canales/venus.png",
-          "url": "https://maxvideorep.com/live/venus/index.m3u8",
+          "url": "https://freevip.xyz/live/venus/index.m3u8",
           "epgId": "Venus.TV"
         },
         {
           "name": "Private",
           "image": "img/canales/red_xxx.png",
-          "url": "https://maxvideorep.com/live/private/index.m3u8",
+          "url": "https://freevip.xyz/live/private/index.m3u8",
           "epgId": "Private.TV"
         },
         {
