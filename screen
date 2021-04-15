@@ -90,8 +90,8 @@
         {
           "name": "Factoría de Ficción",
           "image": "img/canales/fdf.png",
-          "url": "https://26.listafree.xyz/live/fdf/index.m3u8",
-          "url1": "https://listafree.xyz/live/fdf/index.m3u8",
+          "url": "https://freevip.xyz/live/fdf/index.m3u8",
+          "url1": "https://freevip.xyz/live/fdf/index.m3u8",
           "epgId": "FactoríadeFicción.TV"
         },
         {
@@ -412,7 +412,7 @@
           "name": "Movistar Estrenos",
           "image": "img/canales/mestrenos.png",
           "url": "https://freevip.xyz/live/movistar_estrenos/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_estrenos/index.m3u8",
+          "url1": "https://26.listafree.xyz/live/movistar_estrenos/index.m3u8",
           "epgId": "MovistarEstrenos.TV"
         },
         {
