@@ -42,16 +42,16 @@
         {
           "name": "Cuatro",
           "image": "img/canales/cuatro.png",
-          "url": "https://listafree.xyz/live/cuatro/index.m3u8",
-          "url1": "https://listafree.xyz/live/cuatro/index.m3u8",
+          "url": "https://01.freevip.xyz/live/cuatro/index.m3u8",
+          "url1": "https://01.listafree.xyz/live/cuatro/index.m3u8",
           "urlweb": "https://www.mitele.es/directo/cuatro",
           "epgId": "Cuatro.TV"
         },
         {
           "name": "Telecinco",
           "image": "img/canales/telecinco.png",
-          "url": "https://listafree.xyz/live/telecinco/index.m3u8",
-          "url1": "https://listafree.xyz/live/telecinco/index.m3u8",
+          "url": "https://freevip.xyz/live/telecinco/index.m3u8",
+          "url1": "https://freevip.xyz/live/telecinco/index.m3u8",
           "urlweb": "https://www.telecinco.es/endirecto/",
           "epgId": "Telecinco.TV"
         },
@@ -90,8 +90,8 @@
         {
           "name": "Factoría de Ficción",
           "image": "img/canales/fdf.png",
-          "url": "https://listafree.xyz/live/fdf/index.m3u8",
-          "url1": "https://listafree.xyz/live/fdf/index.m3u8",
+          "url": "https://freevip.xyz/live/fdf/index.m3u8",
+          "url1": "https://freevip.xyz/live/fdf/index.m3u8",
           "epgId": "FactoríadeFicción.TV"
         },
         {
