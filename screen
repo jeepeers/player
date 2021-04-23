@@ -480,35 +480,35 @@
         {
           "name": "La Liga TV",
           "image": "img/canales/liga123.png",
-          "url": "https://freevip.xyz/live/la_liga_tv/index.m3u8",
-          "url1": "https://freevip.xyz/live/la_liga_tv/index.m3u8",
+          "url": "https://freevip.xyz/sport/la_liga_tv/index.m3u8",
+          "url1": "https://freevip.xyz/sport/la_liga_tv/index.m3u8",
           "epgId": "LaLigaTV.TV"
         },
         {
           "name": "M. LaLiga",
           "image": "img/canales/mliga.png",
-          "url": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
           "epgId": "M.LaLiga.TV"
         },
         {
           "name": "M. LaLiga 1",
           "image": "img/canales/mliga.png",
-          "url": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_laliga/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
           "epgId": "M.LaLiga1.TV"
         },
         {
           "name": "M.LaLiga 2",
           "image": "img/canales/mliga.png",
-          "url": "https://freevip.xyz/live/movistar_laliga_2/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_laliga_2/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_laliga_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga_2/index.m3u8",
           "epgId": "M.LaLiga2.TV"
         },
         {
           "name": "M.LaLiga 3",
           "image": "img/canales/mliga.png",
-          "url": "https://freevip.xyz/live/movistar_laliga_3/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_laliga_3/index.m3u8",
           "epgId": "M.LaLiga3.TV"
         },
         {
@@ -522,51 +522,51 @@
         {
           "name": "M. Liga de Campeones",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
           "epgId": "M.LigadeCampeones.TV"
         },
         {
           "name": "M. Liga de Campeones 1",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_liga_de_campeones/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
           "epgId": "M.LigadeCampeones1.TV"
         },
         {
           "name": "M. Liga de Campeones 2",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_2/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_2/index.m3u8",
           "epgId": "M.LigadeCampeones2.TV"
         },
         {
           "name": "M. Liga de Campeones 3",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_3/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_3/index.m3u8",
           "epgId": "M.LigadeCampeones3.TV"
         },
         {
           "name": "M. Liga de Campeones 4",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_4/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_4/index.m3u8",
           "epgId": "M.LigadeCampeones4.TV"
         },
         {
           "name": "M. Liga de Campeones 5",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_5/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_5/index.m3u8",
           "epgId": "M.LigadeCampeones5.TV"
         },
         {
           "name": "M. Liga de Campeones 6",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_6/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_6/index.m3u8",
           "epgId": "M.LigadeCampeones6.TV"
         },
         {
           "name": "M. Liga de Campeones 7",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/live/movistar_liga_de_campeones_7/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_7/index.m3u8",
           "epgId": "M.LigadeCampeones7.TV"
         }
       ]
@@ -607,16 +607,16 @@
         {
           "name": "Eurosport 1",
           "image": "img/canales/eurosport.png",
-          "url": "https://freevip.xyz/live/eurosport/index.m3u8",
-          "url1": "https://freevip.xyz/live/eurosport/index.m3u8",
+          "url": "https://freevip.xyz/sport/eurosport/index.m3u8",
+          "url1": "https://freevip.xyz/sport/eurosport/index.m3u8",
           "urlweb": "https://www.eurosport.es/",
           "epgId": "Eurosport1.TV"
         },
         {
           "name": "Eurosport 2",
           "image": "img/canales/eurosport.png",
-          "url": "https://freevip.xyz/live/eurosport_2/index.m3u8",
-          "url1": "https://freevip.xyz/live/eurosport_2/index.m3u8",
+          "url": "https://freevip.xyz/sport/eurosport_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/eurosport_2/index.m3u8",
           "urlweb": "https://www.eurosport.es/",
           "epgId": "Eurosport2.TV"
         },
@@ -652,15 +652,15 @@
         {
           "name": "Movistar Deportes 1",
           "image": "img/canales/mdeportes1.png",
-          "url": "https://freevip.xyz/live/movistar_deportes/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_deportes/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_deportes/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_deportes/index.m3u8",
           "epgId": "MovistarDeportes1.TV"
         },
         {
           "name": "#Vamos",
           "image": "img/canales/vamos.png",
-          "url": "https://freevip.xyz/live/vamos/index.m3u8",
-          "url1": "https://freevip.xyz/live/vamos/index.m3u8",
+          "url": "https://freevip.xyz/sport/vamos/index.m3u8",
+          "url1": "https://freevip.xyz/sport/vamos/index.m3u8",
           "epgId": "Vamos.TV"
         }
       ]
@@ -833,100 +833,100 @@
         {
           "name": "Movistar DAZN 1",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/movistar_dazn_1/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_dazn_1/index.m3u8",
-          "url2": "https://freevip.xyz/live/movistar_dazn_1/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
           "epgId": "MDAZN1.TV"
         },
         {
           "name": "Movistar DAZN 2",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/movistar_dazn_2/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_dazn_2/index.m3u8",
-          "url2": "https://freevip.xyz/live/movistar_dazn_2/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
+          "url2": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
           "epgId": "MDAZN2.TV"
         },
         {
           "name": "Movistar DAZN F1",
           "image": "img/canales/formula1.png",
-          "url": "https://freevip.xyz/live/movistar_formula_1/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_formula_1/index.m3u8",
-          "url2": "https://freevip.xyz/live/movistar_formula_1/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_formula_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_formula_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/movistar_formula_1/index.m3u8",
           "epgId": "MDAZNF1.TV"
         },
         {
           "name": "DAZN 1",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_1/index.m3u8",
-          "url1": "https://freevip.xyz/live/dazn_1/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/dazn_1/index.m3u8",
           "epgId": "DAZN1.TV"
         },
         {
           "name": "DAZN 2",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_2/index.m3u8",
-          "url1": "https://freevip.xyz/live/dazn_2/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/dazn_2/index.m3u8",
           "epgId": "DAZN2.TV"
         },
         {
           "name": "DAZN 3",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_3/index.m3u8",
-          "url1": "https://freevip.xyz/live/dazn_3/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_3/index.m3u8",
+          "url1": "https://freevip.xyz/sport/dazn_3/index.m3u8",
           "epgId": "DAZN3.TV"
         },
         {
           "name": "DAZN 4",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_4/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_4/index.m3u8",
           "epgId": "DAZN4.TV"
         },
         {
           "name": "DAZN 5",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_5/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_5/index.m3u8",
           "epgId": "DAZN5.TV"
         },
         {
           "name": "DAZN 6",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_6/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_6/index.m3u8",
           "epgId": "DAZN6.TV"
         },
         {
           "name": "DAZN 7",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_7/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_7/index.m3u8",
           "epgId": "DAZN7.TV"
         },
         {
           "name": "DAZN 8",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_8/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_8/index.m3u8",
           "epgId": "DAZN8.TV"
         },
         {
           "name": "DAZN 9",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_9/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_9/index.m3u8",
           "epgId": "DAZN9.TV"
         },
         {
           "name": "DAZN 10",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_10/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_10/index.m3u8",
           "epgId": "DAZN10.TV"
         },
         {
           "name": "DAZN 11",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_11/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_11/index.m3u8",
           "epgId": "DAZN11.TV"
         },
         {
           "name": "DAZN 12",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/live/dazn_12/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_12/index.m3u8",
           "epgId": "DAZN12.TV"
         }
       ]
