@@ -1009,7 +1009,7 @@
         },
         {
           "name": "Comedy Central Latino",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/comedycentral.png",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/comedy.png",
           "url": "https://freevip.xyz/sport/comedy_central_latino/index.m3u8",
           "epgId": "ComedyCLat.TV"
         },
