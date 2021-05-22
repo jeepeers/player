@@ -522,25 +522,25 @@
           "epgId": "M.LaLiga5.TV"
         },
         {
-          "name": "M.LaLiga 6 Multi",
+          "name": "M.LaLiga 6",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png",
           "url": "https://freevip.xyz/sport/movistar_laliga_6/index.m3u8",
           "epgId": "M.LaLiga6.TV"
         },
         {
-          "name": "M.LaLiga 7 Multi",
+          "name": "M.LaLiga 7",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png",
           "url": "https://freevip.xyz/sport/movistar_laliga_7/index.m3u8",
           "epgId": "M.LaLiga7.TV"
         },
         {
-          "name": "M.LaLiga 8 Multi",
+          "name": "M.LaLiga 8",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png",
           "url": "https://freevip.xyz/sport/movistar_laliga_8/index.m3u8",
           "epgId": "M.LaLiga8.TV"
         },
         {
-          "name": "M.LaLiga 9 Multi",
+          "name": "M.LaLiga 9",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png",
           "url": "https://freevip.xyz/sport/movistar_laliga_9/index.m3u8",
           "epgId": "M.LaLiga9.TV"
