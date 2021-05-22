@@ -229,7 +229,6 @@
           "image": "img/canales/tv3.png",
           "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist_DVR.m3u8",
           "url1": "https://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist_DVR.m3u8",
-          "url2": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8",
           "urlweb": "http://www.ccma.cat/tv3/directe/super3/",
           "epgId": "TV3Cat.TV"
         },
@@ -238,7 +237,6 @@
           "image": "img/canales/33.png",
           "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8",
           "url1": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8",
-          "url2": "https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8",
           "urlweb": "http://www.telemadrid.es/emision-en-directo-laotra",
           "epgId": "Canal33.TV"
         },
@@ -480,8 +478,8 @@
         {
           "name": "La Liga TV",
           "image": "img/canales/liga123.png",
-          "url": "https://freevip.xyz/sport/la_liga_tv/index.m3u8",
-          "url1": "https://freevip.xyz/sport/la_liga_tv/index.m3u8",
+          "url": "https://freevip.xyz/sport/laliga_tv/index.m3u8",
+          "url1": "https://freevip.xyz/sport/laliga_tv/index.m3u8",
           "epgId": "LaLigaTV.TV"
         },
         {
@@ -494,8 +492,8 @@
         {
           "name": "M. LaLiga 1",
           "image": "img/canales/mliga.png",
-          "url": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
-          "url1": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_laliga_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga_1/index.m3u8",
           "epgId": "M.LaLiga1.TV"
         },
         {
@@ -510,6 +508,42 @@
           "image": "img/canales/mliga.png",
           "url": "https://freevip.xyz/sport/movistar_laliga_3/index.m3u8",
           "epgId": "M.LaLiga3.TV"
+        },
+        {
+          "name": "M.LaLiga 4",
+          "image": "img/canales/mliga.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_4/index.m3u8",
+          "epgId": "M.LaLiga4.TV"
+        },
+        {
+          "name": "M.LaLiga 5",
+          "image": "img/canales/mliga.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_5/index.m3u8",
+          "epgId": "M.LaLiga5.TV"
+        },
+        {
+          "name": "M.LaLiga 6 Multi",
+          "image": "img/canales/mliga.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_6/index.m3u8",
+          "epgId": "M.LaLiga6.TV"
+        },
+        {
+          "name": "M.LaLiga 7 Multi",
+          "image": "img/canales/mliga.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_7/index.m3u8",
+          "epgId": "M.LaLiga7.TV"
+        },
+        {
+          "name": "M.LaLiga 8 Multi",
+          "image": "img/canales/mliga.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_8/index.m3u8",
+          "epgId": "M.LaLiga8.TV"
+        },
+        {
+          "name": "M.LaLiga 9 Multi",
+          "image": "img/canales/mliga.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_9/index.m3u8",
+          "epgId": "M.LaLiga9.TV"
         },
         {
           "name": "Real Madrid TV",
@@ -529,8 +563,8 @@
         {
           "name": "M. Liga de Campeones 1",
           "image": "img/canales/mligacampeones.png",
-          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
-          "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones_1/index.m3u8",
           "epgId": "M.LigadeCampeones1.TV"
         },
         {
@@ -831,107 +865,361 @@
       "image": "",
       "stations": [
         {
-          "name": "Movistar DAZN 1",
-          "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
-          "url1": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
-          "url2": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
-          "epgId": "MDAZN1.TV"
-        },
-        {
-          "name": "Movistar DAZN 2",
-          "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
-          "url1": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
-          "url2": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
-          "epgId": "MDAZN2.TV"
-        },
-        {
           "name": "Movistar DAZN F1",
           "image": "img/canales/formula1.png",
-          "url": "https://freevip.xyz/sport/movistar_formula_1/index.m3u8",
-          "url1": "https://freevip.xyz/sport/movistar_formula_1/index.m3u8",
-          "url2": "https://freevip.xyz/sport/movistar_formula_1/index.m3u8",
+          "url": "https://freevip.xyz/sport/dazn_f1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/dazn_f1/index.m3u8",
           "epgId": "MDAZNF1.TV"
         },
         {
           "name": "DAZN 1",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_1/index.m3u8",
-          "url1": "https://freevip.xyz/sport/dazn_1/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
           "epgId": "DAZN1.TV"
         },
         {
           "name": "DAZN 2",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_2/index.m3u8",
-          "url1": "https://freevip.xyz/sport/dazn_2/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
           "epgId": "DAZN2.TV"
         },
         {
           "name": "DAZN 3",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_3/index.m3u8",
-          "url1": "https://freevip.xyz/sport/dazn_3/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_3/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_3/index.m3u8",
           "epgId": "DAZN3.TV"
         },
         {
           "name": "DAZN 4",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_4/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_4/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_4/index.m3u8",
           "epgId": "DAZN4.TV"
         },
         {
           "name": "DAZN 5",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_5/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_5/index.m3u8",
           "epgId": "DAZN5.TV"
         },
         {
           "name": "DAZN 6",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_6/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_6/index.m3u8",
           "epgId": "DAZN6.TV"
         },
         {
           "name": "DAZN 7",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_7/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_7/index.m3u8",
           "epgId": "DAZN7.TV"
         },
         {
           "name": "DAZN 8",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_8/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_8/index.m3u8",
           "epgId": "DAZN8.TV"
         },
         {
           "name": "DAZN 9",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_9/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_9/index.m3u8",
           "epgId": "DAZN9.TV"
         },
         {
           "name": "DAZN 10",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_10/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_10/index.m3u8",
           "epgId": "DAZN10.TV"
         },
         {
           "name": "DAZN 11",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_11/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_11/index.m3u8",
           "epgId": "DAZN11.TV"
         },
         {
           "name": "DAZN 12",
           "image": "img/canales/dazn.png",
-          "url": "https://freevip.xyz/sport/dazn_12/index.m3u8",
+          "url": "https://freevip.xyz/sport/movistar_dazn_12/index.m3u8",
           "epgId": "DAZN12.TV"
         }
       ]
     },
     {
+      "name": "Latinos",
+      "image": "",
+      "stations": [
+        {
+          "name": "Win Sport",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/win_sport/index.m3u8",
+          "epgId": "Win.TV"
+        },
+        {
+          "name": "Warner",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/warner/index.m3u8",
+          "epgId": "Warner.TV"
+        },
+        {
+          "name": "Warner",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/warner/index.m3u8",
+          "epgId": "Warner.TV"
+        },
+        {
+          "name": "Univision",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/univision/index.m3u8",
+          "epgId": "Univision.TV"
+        },
+        {
+          "name": "TYC Sports",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/tyc_sports/index.m3u8",
+          "epgId": "TYC.TV"
+        },
+        {
+          "name": "TYC Sports",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/tyc_sports/index.m3u8",
+          "epgId": "TYC.TV"
+        },
+        {
+          "name": "Telemundo",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/telemundo/index.m3u8",
+          "epgId": "Telemundo.TV"
+        },
+        {
+          "name": "Syfy Latino",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/Syfy_latino/index.m3u8",
+          "epgId": "Syfylatino.TV"
+        },
+        {
+          "name": "Studio Universal",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/studio_universal/index.m3u8",
+          "epgId": "Studiouniver.TV"
+        },
+        {
+          "name": "Star Series",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_series/index.m3u8",
+          "epgId": "Starseries.TV"
+        },
+        {
+          "name": "Star Life",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_life/index.m3u8",
+          "epgId": "Starlife.TV"
+        },
+        {
+          "name": "Star Fun",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_fun/index.m3u8",
+          "epgId": "Starfun.TV"
+        },
+        {
+          "name": "Star Comedy",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_comedy/index.m3u8",
+          "epgId": "Starcomedy.TV"
+        },
+        {
+          "name": "Star Classics",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_classics/index.m3u8",
+          "epgId": "Starclassics.TV"
+        },
+        {
+          "name": "Star Cinema",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_cinema/index.m3u8",
+          "epgId": "Starcinema.TV"
+        },
+        {
+          "name": "Star Channel",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_channel/index.m3u8",
+          "epgId": "Starchannel.TV"
+        },
+        {
+          "name": "Star Action",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/star_action/index.m3u8",
+          "epgId": "Staraction.TV"
+        },
+        {
+          "name": "Space Latino",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/space_latino/index.m3u8",
+          "epgId": "Space.TV"
+        },
+        {
+          "name": "Spay Music",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/spay_music/index.m3u8",
+          "epgId": "SpayMusic.TV"
+        },
+        {
+          "name": "History",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/history/index.m3u8",
+          "epgId": "History.TV"
+        },
+        {
+          "name": "HBO Xtreme",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/hbo_xtreme/index.m3u8",
+          "epgId": "HBOXtreme.TV"
+        },
+        {
+          "name": "HBO Pop",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/hbo_pop/index.m3u8",
+          "epgId": "HBOPop.TV"
+        },
+        {
+          "name": "HBO Plus",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/hbo_plus/index.m3u8",
+          "epgId": "HBOPlus.TV"
+        },
+        {
+          "name": "HBO Family",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/hbo_family/index.m3u8",
+          "epgId": "HBOFamily.TV"
+        },
+        {
+          "name": "HBO 2",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/hbo_2/index.m3u8",
+          "epgId": "HBO2.TV"
+        },
+        {
+          "name": "FOX Sports 1",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/fox_sports_1/index.m3u8",
+          "epgId": "FOXSport1.TV"
+        },
+        {
+          "name": "FOX Sports 2",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/fox_sports_2/index.m3u8",
+          "epgId": "FOXSport2.TV"
+        },
+        {
+          "name": "FOX Sports 3",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/fox_sports_3/index.m3u8",
+          "epgId": "FOXSport3.TV"
+        },
+        {
+          "name": "ESPN 1",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/espn_1/index.m3u8",
+          "epgId": "ESPN1.TV"
+        },
+        {
+          "name": "ESPN 2",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/espn_2/index.m3u8",
+          "epgId": "ESPN2.TV"
+        },
+        {
+          "name": "ESPN 3",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/espn_3/index.m3u8",
+          "epgId": "ESPN3.TV"
+        },
+        {
+          "name": "Dreamwork",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/dreamwork/index.m3u8",
+          "epgId": "Dreamwork.TV"
+        },
+        {
+          "name": "Discovery World",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_world/index.m3u8",
+          "epgId": "DisWorld.TV"
+        },
+        {
+          "name": "Discovery Turbo",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_turbo/index.m3u8",
+          "epgId": "DisTurbo.TV"
+        },
+        {
+          "name": "Discovery TLC",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_tlc/index.m3u8",
+          "epgId": "Distlc.TV"
+        },
+        {
+          "name": "Discovery Theater",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_theater/index.m3u8",
+          "epgId": "Distheater.TV"
+        },
+        {
+          "name": "Discovery Kids",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_kids/index.m3u8",
+          "epgId": "DisKids.TV"
+        },
+        {
+          "name": "Discovery ID",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_id/index.m3u8",
+          "epgId": "DisID.TV"
+        },
+        {
+          "name": "Discovery HH",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_hh/index.m3u8",
+          "epgId": "DisHH.TV"
+        },
+        {
+          "name": "Discovery Channel Latino",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/discovery_channel_latino/index.m3u8",
+          "epgId": "DisCHLAT.TV"
+        },
+        {
+          "name": "Directv Sports",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/directv_sports/index.m3u8",
+          "epgId": "DirectvSports.TV"
+        },
+        {
+          "name": "Directv Sports 2",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/directv_sports_2/index.m3u8",
+          "epgId": "DirectvSports2.TV"
+        },
+        {
+          "name": "Cinemax",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/cinemax/index.m3u8",
+          "epgId": "Cinemax.TV"
+        },
+        {
+          "name": "Cinecanal",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/cinecanal/index.m3u8",
+          "epgId": "Cinecanal.TV"
+        },
+      ]
+    },
+	{
       "name": "Adultos",
       "image": "",
       "stations": [
@@ -998,7 +1286,7 @@
         {
           "name": "Venus",
           "image": "img/canales/venus.png",
-          "url": "https://freevip.xyz/live/venus/index.m3u8",
+          "url": "https://freevip.xyz/sport/venus/index.m3u8",
           "epgId": "Venus.TV"
         },
         {
