@@ -436,7 +436,7 @@
         },
         {
           "name": "Movistar Cine N",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/maccion.png",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mcinen.png",
           "url": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
           "url1": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
           "epgId": "MovistarCineN.TV"
@@ -625,7 +625,7 @@
         },
         {
           "name": "Cazavision",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tycsport.png",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cazavision.png",
           "url": "https://freevip.xyz/live/cazavision/index.m3u8",
           "url1": "https://freevip.xyz/live/cazavision/index.m3u8",
           "epgId": "Cazavision.TV"
@@ -1276,6 +1276,12 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/lared.png",
           "url": "https://freevip.xyz/sport/la_red_hd/index.m3u8",
           "epgId": "Lared.TV"
+        },
+        {
+          "name": "Mega L",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mega.png",
+          "url": "https://freevip.xyz/sport/megac_fhd/index.m3u8",
+          "epgId": "Megalat.TV"
         }
       ]
     },
