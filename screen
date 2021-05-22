@@ -344,6 +344,12 @@
       "image": "",
       "stations": [
         {
+          "name": "Dreamwork",
+          "image": "img/canales/.png",
+          "url": "https://freevip.xyz/sport/dreamwork/index.m3u8",
+          "epgId": "Dreamwork.TV"
+        },
+        {
           "name": "AXN",
           "image": "img/canales/axn.png",
           "url": "https://freevip.xyz/live/axn/index.m3u8",
@@ -1138,12 +1144,6 @@
           "image": "img/canales/.png",
           "url": "https://freevip.xyz/sport/espn_3/index.m3u8",
           "epgId": "ESPN3.TV"
-        },
-        {
-          "name": "Dreamwork",
-          "image": "img/canales/.png",
-          "url": "https://freevip.xyz/sport/dreamwork/index.m3u8",
-          "epgId": "Dreamwork.TV"
         },
         {
           "name": "Discovery World",
