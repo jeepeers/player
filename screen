@@ -486,7 +486,7 @@
           "name": "M. LaLiga",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png",
           "url": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
-          "url1": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga_opc2/index.m3u8",
           "epgId": "M.LaLiga.TV"
         },
         {
