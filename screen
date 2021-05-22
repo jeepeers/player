@@ -742,7 +742,7 @@
           "name": "National Geographic",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/natgeo.png",
           "url": "https://freevip.xyz/live/national_geographic_channel/index.m3u8",
-          "url1": "https://freevip.xyz/live/national_geographic_channel/index.m3u8",
+          "url1": "https://freevip.xyz/sport/national_geographic/index.m3u8",
           "urlweb": "https://www.nationalgeographic.es/",
           "epgId": "NationalGeographic.TV"
         },
@@ -768,6 +768,24 @@
           "url1": "https://freevip.xyz/live/mtv/index.m3u8",
           "urlweb": "http://www.mtv.es/",
           "epgId": "MTV.TV"
+        },
+        {
+          "name": "Club MTV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
+          "url": "https://freevip.xyz/sport/club_mtv/index.m3u8",
+          "epgId": "CMTV.TV"
+        },
+        {
+          "name": "MTV Hits",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
+          "url": "https://freevip.xyz/sport/mtv_hits/index.m3u8",
+          "epgId": "MTVH.TV"
+        },
+        {
+          "name": "MTV Base",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
+          "url": "https://freevip.xyz/sport/mtv_base/index.m3u8",
+          "epgId": "MTVB.TV"
         },
         {
           "name": "Canal Cocina",
@@ -960,6 +978,60 @@
       "image": "",
       "stations": [
         {
+          "name": "AMC Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/amc.png",
+          "url": "https://freevip.xyz/sport/amc_latino/index.m3u8",
+          "epgId": "AMCLat.TV"
+        },
+        {
+          "name": "AXN Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axn.png",
+          "url": "https://freevip.xyz/sport/axn_latino/index.m3u8",
+          "epgId": "AXNLat.TV"
+        },
+        {
+          "name": "Canal 13",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/canal13.png",
+          "url": "https://freevip.xyz/sport/canal_13/index.m3u8",
+          "epgId": "Canal13.TV"
+        },
+        {
+          "name": "CDF",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cdf.png",
+          "url": "https://freevip.xyz/sport/cdf_fhd/index.m3u8",
+          "epgId": "FDC.TV"
+        },
+        {
+          "name": "Chilevision",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/chilevision.png",
+          "url": "https://freevip.xyz/sport/chilevision_hd/index.m3u8",
+          "epgId": "Chilevision.TV"
+        },
+        {
+          "name": "Comedy Central Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/comedycentral.png",
+          "url": "https://freevip.xyz/sport/comedy_central_latino/index.m3u8",
+          "epgId": "ComedyCLat.TV"
+        },
+        {
+          "name": "TNT Series",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png",
+          "url": "https://freevip.xyz/sport/tnt_series/index.m3u8",
+          "epgId": "TNTSeries.TV"
+        },
+        {
+          "name": "TNT Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png",
+          "url": "https://freevip.xyz/sport/tnt_latino/index.m3u8",
+          "epgId": "TNTlatino.TV"
+        },
+        {
+          "name": "Sony Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/sony.png",
+          "url": "https://freevip.xyz/sport/sony_latino/index.m3u8",
+          "epgId": "Sony.TV"
+        },
+		{
           "name": "Win Sport",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/winsport.png",
           "url": "https://freevip.xyz/sport/win_sport/index.m3u8",
@@ -1198,6 +1270,12 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cinecanal.png",
           "url": "https://freevip.xyz/sport/cinecanal/index.m3u8",
           "epgId": "Cinecanal.TV"
+        },
+        {
+          "name": "La Red",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/lared.png",
+          "url": "https://freevip.xyz/sport/la_red_hd/index.m3u8",
+          "epgId": "Lared.TV"
         }
       ]
     },
