@@ -486,7 +486,8 @@
           "name": "M. LaLiga",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png",
           "url": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
-          "url1": "https://freevip.xyz/sport/movistar_laliga_opc2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
+          "url2": "https://freevip.xyz/sport/laliga/index.m3u8",
           "epgId": "M.LaLiga.TV"
         },
         {
@@ -494,6 +495,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga1.png",
           "url": "https://freevip.xyz/sport/movistar_laliga_1/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_laliga_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/laliga_1/index.m3u8",
           "epgId": "M.LaLiga1.TV"
         },
         {
@@ -501,6 +503,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga2.png",
           "url": "https://freevip.xyz/sport/movistar_laliga_2/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_laliga_2/index.m3u8",
+          "url2": "https://freevip.xyz/sport/laliga_2/index.m3u8",
           "epgId": "M.LaLiga2.TV"
         },
         {
@@ -558,6 +561,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones.png",
           "url": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
+          "url2": "https://freevip.xyz/sport/liga_de_campeones/index.m3u8",
           "epgId": "M.LigadeCampeones.TV"
         },
         {
@@ -565,12 +569,14 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones1.png",
           "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_1/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/liga_de_campeones_1/index.m3u8",
           "epgId": "M.LigadeCampeones1.TV"
         },
         {
           "name": "M. Liga de Campeones 2",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones2.png",
           "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/liga_de_campeones_2/index.m3u8",
           "epgId": "M.LigadeCampeones2.TV"
         },
         {
@@ -893,6 +899,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/formula1.png",
           "url": "https://freevip.xyz/sport/dazn_f1/index.m3u8",
           "url1": "https://freevip.xyz/sport/dazn_f1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_formula1/index.m3u8",
           "epgId": "MDAZNF1.TV"
         },
         {
@@ -900,6 +907,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn1.png",
           "url": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_1/index.m3u8",
           "epgId": "DAZN1.TV"
         },
         {
@@ -907,6 +915,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn2.png",
           "url": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_2/index.m3u8",
           "epgId": "DAZN2.TV"
         },
         {
@@ -914,6 +923,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn3.png",
           "url": "https://freevip.xyz/sport/movistar_dazn_3/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_dazn_3/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_3/index.m3u8",
           "epgId": "DAZN3.TV"
         },
         {
@@ -921,6 +931,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn4.png",
           "url": "https://freevip.xyz/sport/movistar_dazn_4/index.m3u8",
           "url1": "https://freevip.xyz/sport/movistar_dazn_4/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_4/index.m3u8",
           "epgId": "DAZN4.TV"
         },
         {
