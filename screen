@@ -811,7 +811,7 @@
         {
           "name": "Dreamworks",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dreamworks.png",
-          "url": "https://freevip.xyz/sport/dreamwork/index.m3u8",
+          "url": "https://freevip.xyz/live/dreamwork/index.m3u8",
           "epgId": "Dreamworks.TV"
         },
         {
@@ -1346,7 +1346,7 @@
         {
           "name": "Venus",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/venus.png",
-          "url": "https://freevip.xyz/sport/venus/index.m3u8",
+          "url": "https://freevip.xyz/live/venus/index.m3u8",
           "epgId": "Venus.TV"
         },
         {
