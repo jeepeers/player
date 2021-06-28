@@ -17,7 +17,7 @@
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/la1.png",
           "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
           "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
-          "url2": "https://freevip.xyz/live/la_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/la_1/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-1/",
           "epgId": "LA1.TV"
         },
@@ -42,8 +42,8 @@
         {
           "name": "Cuatro",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cuatro.png",
-          "url": "https://freevip.xyz/live/cuatro/index.m3u8",
-          "url1": "https://freevip.xyz/live/cuatro/index.m3u8",
+          "url": "https://freevip.xyz/sport/cuatro/index.m3u8",
+          "url1": "https://freevip.xyz/sport/cuatro/index.m3u8",
           "urlweb": "https://www.mitele.es/directo/cuatro",
           "epgId": "Cuatro.TV"
         },
@@ -58,8 +58,8 @@
         {
           "name": "La Sexta",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/seis.png",
-          "url": "https://freevip.xyz/live/la_sexta/index.m3u8",
-          "url1": "https://freevip.xyz/live/la_sexta/index.m3u8",
+          "url": "https://freevip.xyz/sport/la_sexta/index.m3u8",
+          "url1": "https://freevip.xyz/sport/la_sexta/index.m3u8",
           "urlweb": "https://www.atresplayer.com/directos/lasexta/",
           "epgId": "LaSexta.TV"
         },
